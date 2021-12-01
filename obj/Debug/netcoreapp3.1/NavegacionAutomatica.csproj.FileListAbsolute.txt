@@ -1,0 +1,16 @@
+C:\Users\juan_\Documents\Ernesto\VisualStudio\NavegacionAutomatica\bin\Debug\netcoreapp3.1\NavegacionAutomatica.exe
+C:\Users\juan_\Documents\Ernesto\VisualStudio\NavegacionAutomatica\bin\Debug\netcoreapp3.1\NavegacionAutomatica.deps.json
+C:\Users\juan_\Documents\Ernesto\VisualStudio\NavegacionAutomatica\bin\Debug\netcoreapp3.1\NavegacionAutomatica.runtimeconfig.json
+C:\Users\juan_\Documents\Ernesto\VisualStudio\NavegacionAutomatica\bin\Debug\netcoreapp3.1\NavegacionAutomatica.runtimeconfig.dev.json
+C:\Users\juan_\Documents\Ernesto\VisualStudio\NavegacionAutomatica\bin\Debug\netcoreapp3.1\NavegacionAutomatica.dll
+C:\Users\juan_\Documents\Ernesto\VisualStudio\NavegacionAutomatica\bin\Debug\netcoreapp3.1\NavegacionAutomatica.pdb
+C:\Users\juan_\Documents\Ernesto\VisualStudio\NavegacionAutomatica\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\juan_\Documents\Ernesto\VisualStudio\NavegacionAutomatica\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\juan_\Documents\Ernesto\VisualStudio\NavegacionAutomatica\obj\Debug\netcoreapp3.1\NavegacionAutomatica.csproj.AssemblyReference.cache
+C:\Users\juan_\Documents\Ernesto\VisualStudio\NavegacionAutomatica\obj\Debug\netcoreapp3.1\NavegacionAutomatica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan_\Documents\Ernesto\VisualStudio\NavegacionAutomatica\obj\Debug\netcoreapp3.1\NavegacionAutomatica.AssemblyInfoInputs.cache
+C:\Users\juan_\Documents\Ernesto\VisualStudio\NavegacionAutomatica\obj\Debug\netcoreapp3.1\NavegacionAutomatica.AssemblyInfo.cs
+C:\Users\juan_\Documents\Ernesto\VisualStudio\NavegacionAutomatica\obj\Debug\netcoreapp3.1\NavegacionAutomatica.csproj.CoreCompileInputs.cache
+C:\Users\juan_\Documents\Ernesto\VisualStudio\NavegacionAutomatica\obj\Debug\netcoreapp3.1\NavegacionAutomatica.dll
+C:\Users\juan_\Documents\Ernesto\VisualStudio\NavegacionAutomatica\obj\Debug\netcoreapp3.1\NavegacionAutomatica.pdb
+C:\Users\juan_\Documents\Ernesto\VisualStudio\NavegacionAutomatica\obj\Debug\netcoreapp3.1\NavegacionAutomatica.genruntimeconfig.cache
